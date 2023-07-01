@@ -1,3 +1,7 @@
+/*
+Napisz program, który oblicza sumę liczb parzystych z zakresu od 1 do 100 i wyświetla wynik.
+ */
+
 public class SumOfEvenNumbers {
     public static void main(String[] args) {
         int sum = 0;

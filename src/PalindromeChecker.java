@@ -1,3 +1,8 @@
+/*
+Napisz program, który sprawdza, czy podane słowo jest palindromem. Palindrom to słowo,
+które czyta się tak samo od przodu i od tyłu. Przykłady palindromów to "kajak", "anna", "radar".
+ */
+
 public class PalindromeChecker {
     public static void main(String[] args) {
         String word = "kajak";

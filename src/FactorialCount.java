@@ -1,3 +1,9 @@
+/*
+Napisz program, który oblicza silnię dla podanej liczby. Silnia liczby n (oznaczana jako n!)
+to iloczyn wszystkich liczb naturalnych od 1 do n. Na przykład, 5! = 5 * 4 * 3 * 2 * 1 = 120.
+*/
+
+
 public class FactorialCount {
     public static void main(String[] args) {
         int number = 5;
